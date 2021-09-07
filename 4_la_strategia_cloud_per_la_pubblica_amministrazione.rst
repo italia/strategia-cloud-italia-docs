@@ -55,16 +55,16 @@ e servizi sono identificate sulla base del danno che una loro
 compromissione, in termini di confidenzialità, integrità e
 disponibilità, provocherebbe al sistema Paese. Tali classi sono:
 
-**Strategico:** dati e servizi la cui compromissione può avere un
-impatto sulla sicurezza nazionale;
+* **Strategico:** dati e servizi la cui compromissione può avere un
+  impatto sulla sicurezza nazionale;
 
-**Critico:** dati e servizi la cui compromissione potrebbe determinare
-un pregiudizio al mantenimento di funzioni rilevanti per la società, la
-salute, la sicurezza e il benessere economico e sociale del Paese;
+* **Critico:** dati e servizi la cui compromissione potrebbe determinare
+  un pregiudizio al mantenimento di funzioni rilevanti per la società, la
+  salute, la sicurezza e il benessere economico e sociale del Paese;
 
-**Ordinario:** dati e servizi la cui compromissione non provochi
-l’interruzione di servizi dello Stato o, comunque, un pregiudizio per il
-benessere economico e sociale del Paese.
+* **Ordinario:** dati e servizi la cui compromissione non provochi
+  l’interruzione di servizi dello Stato o, comunque, un pregiudizio per il
+  benessere economico e sociale del Paese.
 
 Questa classificazione astrae da specifiche normative e requisiti di
 sicurezza descrivendo esclusivamente l’impatto per il sistema Paese di
@@ -153,7 +153,7 @@ vincoli:
 .. figure:: images/4.2.jpg
     :alt: Immagine che mostra l'utilizzo in accordo alla classificazione dei servizi Cloud.
 
-QQuesto processo di adozione dei servizi Cloud nella PA, dovrà culminare
+Questo processo di adozione dei servizi Cloud nella PA, dovrà culminare
 con la realizzazione di un *mercato elettronico dei servizi Cloud
 qualificati*\  [12]_. Tale mercato dovrà rappresentare il mezzo mediante
 il quale le amministrazioni saranno guidate, in accordo al processo di
