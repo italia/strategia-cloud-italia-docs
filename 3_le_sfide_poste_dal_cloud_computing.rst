@@ -115,8 +115,7 @@ trasformandole in un sistema omogeneo.
 
 .. [4]
    Si veda, ad esempio,
-   https://www.gartner.com/en/newsroom/press-releases/2019-07-29-gartner-says-worldwide-
-   iaas-public-cloud-services-market-grew-31point3-percent-in-2018 e
+   https://www.gartner.com/en/newsroom/press-releases/2019-07-29-gartner-says-worldwide-iaas-public-cloud-services-market-grew-31point3-percent-in-2018 e
    https://www.idc.com/getdoc.jsp?containerId=prUS45552219 e
    https://www.forbes.com/sites/steveandriole/2019/11/20/forrester-research-gets-cloud--computing-trends-right/#5b30ee4468a2.
 
